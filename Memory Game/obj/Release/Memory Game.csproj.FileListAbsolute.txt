@@ -1,0 +1,12 @@
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\obj\Release\Memory Game.csproj.AssemblyReference.cache
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\obj\Release\Memory_Game.Form1.resources
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\obj\Release\Memory_Game.Form2.resources
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\obj\Release\Memory_Game.Form3.resources
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\obj\Release\Memory_Game.Properties.Resources.resources
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\obj\Release\Memory Game.csproj.GenerateResource.cache
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\obj\Release\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\bin\Release\Memory Game.exe.config
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\bin\Release\Memory Game.exe
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\bin\Release\Memory Game.pdb
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\obj\Release\Memory Game.exe
+C:\Users\Mikhail\source\repos\Memory Game\Memory Game\obj\Release\Memory Game.pdb
